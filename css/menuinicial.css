@@ -1,0 +1,9 @@
+body{
+font-family: arial;
+background:"orange";
+}
+.MenuActs li a{
+margin:auto;
+padding:0;
+background:#092327;
+}
